@@ -1,0 +1,1073 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36">
+  <diagram name="Page-1" id="qxUYC310qP1W16MyUdSt">
+    <mxGraphModel dx="1373" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="plVcgqgExox_p886mGKB-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Librarian&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="26" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Login&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Mange Acquisition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Manage Cataloguing&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Tag RFID&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Manage Circulation&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;(Issue/Return)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Search Book&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Import/Export MARC&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-18" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Member&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;(Patron)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="510" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Generate Reports&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="180" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Manage Patrons&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="190" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;View Transactions&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="650" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Return Book&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="650" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Borrow Book&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="650" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Search Book&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="640" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-29" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Non-Member&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="520" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Sign up&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="660" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-38" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-39" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-40" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="190" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="120" as="sourcePoint" />
+            <mxPoint x="510" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-44" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="120" as="sourcePoint" />
+            <mxPoint x="650" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-45" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="120" as="sourcePoint" />
+            <mxPoint x="660" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="550" y="120" as="sourcePoint" />
+            <mxPoint x="660" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-48" edge="1" parent="1" source="plVcgqgExox_p886mGKB-11" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="90" as="sourcePoint" />
+            <mxPoint x="510" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-57" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-30" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="540" />
+            </Array>
+            <mxPoint x="560" y="540" as="sourcePoint" />
+            <mxPoint x="520" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KhkD1lyLT3bc61OcVTD--9" connectable="0" parent="plVcgqgExox_p886mGKB-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="0.395" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-58" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;Use Case Diagram&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="470" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-59" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Category&lt;/font&gt;" vertex="1">
+          <mxGeometry height="108" width="279.07" x="120" y="1140" as="geometry">
+            <mxRectangle height="40" width="110" x="120" y="1140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-60" parent="plVcgqgExox_p886mGKB-59" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;-categoryID:int&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;-categoryName:string&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="279.07" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-61" parent="plVcgqgExox_p886mGKB-59" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="279.07" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-67" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Author&lt;/font&gt;" vertex="1">
+          <mxGeometry height="108" width="279.07" x="120" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-68" parent="plVcgqgExox_p886mGKB-67" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-authorID:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-name:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-type:string(key/other)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="279.07" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-69" parent="plVcgqgExox_p886mGKB-67" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="279.07" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-73" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Book&lt;/font&gt;" vertex="1">
+          <mxGeometry height="278" width="279.07" x="520" y="1140" as="geometry">
+            <mxRectangle height="40" width="110" x="120" y="1140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-74" parent="plVcgqgExox_p886mGKB-73" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-bookID:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-title:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-subTitle:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-language:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-publicationYear:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-edition:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-call_No:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-price:decimal&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-isbn:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-lccn:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="244" width="279.07" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-75" parent="plVcgqgExox_p886mGKB-73" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="279.07" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-76" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Catalog&lt;/font&gt;" vertex="1">
+          <mxGeometry height="408" width="279.07" x="521" y="1490" as="geometry">
+            <mxRectangle height="40" width="110" x="120" y="1140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-77" parent="plVcgqgExox_p886mGKB-76" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-catalogID:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-noOfPages:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-size:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-illustrations:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-publisher:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-placeOfPublication:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-publishedCountry:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-distributor:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-keywords:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-typeOfReference:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-dateOfReference:date&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-annotation:text&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-index:text&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-summary:text&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-remark:text&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-notes:text&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="374" width="279.07" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-78" parent="plVcgqgExox_p886mGKB-76" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="279.07" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-79" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;RFID_Tag&lt;/font&gt;" vertex="1">
+          <mxGeometry height="108" width="279.07" x="915" y="1147" as="geometry">
+            <mxRectangle height="40" width="110" x="120" y="1140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-80" parent="plVcgqgExox_p886mGKB-79" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-rfidNo:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-status:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="279.07" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-81" parent="plVcgqgExox_p886mGKB-79" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="279.07" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-82" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Acquisition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="158" width="279.07" x="920" y="1360" as="geometry">
+            <mxRectangle height="40" width="110" x="120" y="1140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-83" parent="plVcgqgExox_p886mGKB-82" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-acquisitionID:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-date:date&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-price:decimal&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-noOfPublishedBooks:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="124" width="279.07" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-84" parent="plVcgqgExox_p886mGKB-82" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="279.07" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-85" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Circulation&lt;/font&gt;" vertex="1">
+          <mxGeometry height="178" width="279.07" x="930" y="1620" as="geometry">
+            <mxRectangle height="40" width="110" x="120" y="1140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-86" parent="plVcgqgExox_p886mGKB-85" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-transactionID:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-dueDate:date&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-returnDate:date&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-status:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="144" width="279.07" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-87" parent="plVcgqgExox_p886mGKB-85" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="279.07" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-89" edge="1" parent="1" source="plVcgqgExox_p886mGKB-60" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;exitX=1.011;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.009;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;" target="plVcgqgExox_p886mGKB-74" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="740" y="1460" as="sourcePoint" />
+            <mxPoint x="840" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-90" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="390" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-91" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="490" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-93" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="799.07" y="1408" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-94" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="890" y="1690" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-96" edge="1" parent="1" source="plVcgqgExox_p886mGKB-74" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;exitX=1.006;exitY=0.955;exitDx=0;exitDy=0;exitPerimeter=0;" target="plVcgqgExox_p886mGKB-86" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="1710" />
+            </Array>
+            <mxPoint x="800" y="1370" as="sourcePoint" />
+            <mxPoint x="850" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-100" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="1204.0700000000002" y="1943" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-102" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="893" y="1785" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-104" edge="1" parent="1" source="plVcgqgExox_p886mGKB-68" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;exitX=1.002;exitY=0.366;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="550" y="1450" as="sourcePoint" />
+            <mxPoint x="520" y="1375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-105" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="490" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-106" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;*&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="385" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-109" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="1176" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-110" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="790" y="1175" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-112" edge="1" parent="1" source="plVcgqgExox_p886mGKB-74" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;exitX=0.994;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;" target="plVcgqgExox_p886mGKB-82" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="410" y="1383" as="sourcePoint" />
+            <mxPoint x="533" y="1383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-113" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="880" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-114" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="790" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-120" edge="1" parent="1" source="plVcgqgExox_p886mGKB-77" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;exitX=1.007;exitY=0.071;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="682.46" y="1498" />
+              <mxPoint x="672.46" y="1478" />
+              <mxPoint x="672.46" y="1488" />
+              <mxPoint x="612.46" y="1468" />
+              <mxPoint x="662.46" y="1478" />
+            </Array>
+            <mxPoint x="810.1397699999998" y="1543.676" as="sourcePoint" />
+            <mxPoint x="517" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-121" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="790" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-122" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="20" width="40" x="481" y="1398" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-123" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;Class Diagram&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="560" y="2021" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-125" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Category&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="230" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-126" parent="plVcgqgExox_p886mGKB-125" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-127" parent="plVcgqgExox_p886mGKB-126" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;PK&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-128" parent="plVcgqgExox_p886mGKB-126" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;category_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="30" as="geometry">
+            <mxRectangle height="30" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-129" parent="plVcgqgExox_p886mGKB-125" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="30" width="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-130" parent="plVcgqgExox_p886mGKB-129" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-131" parent="plVcgqgExox_p886mGKB-129" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;category_name&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="30" as="geometry">
+            <mxRectangle height="30" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-138" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Author&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="180" x="230" y="2530" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-139" parent="plVcgqgExox_p886mGKB-138" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-140" parent="plVcgqgExox_p886mGKB-139" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;PK&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-141" parent="plVcgqgExox_p886mGKB-139" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;author_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="30" as="geometry">
+            <mxRectangle height="30" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-142" parent="plVcgqgExox_p886mGKB-138" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-143" parent="plVcgqgExox_p886mGKB-142" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="30" as="geometry">
+            <mxRectangle height="80" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-144" parent="plVcgqgExox_p886mGKB-142" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;name&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;type&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;(Key/Other)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="30" as="geometry">
+            <mxRectangle height="80" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-145" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Book&lt;/font&gt;" vertex="1">
+          <mxGeometry height="350" width="210" x="520" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-146" parent="plVcgqgExox_p886mGKB-145" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-147" parent="plVcgqgExox_p886mGKB-146" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;PK&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-148" parent="plVcgqgExox_p886mGKB-146" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;book_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="30" as="geometry">
+            <mxRectangle height="30" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-149" parent="plVcgqgExox_p886mGKB-145" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="290" width="210" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-150" parent="plVcgqgExox_p886mGKB-149" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="30" as="geometry">
+            <mxRectangle height="290" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-151" parent="plVcgqgExox_p886mGKB-149" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;title&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;sub_title&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;category_id&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;language&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;publication_year&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;edition&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;isbn&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;lccn&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;rfid_no&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;call_no&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;price&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="180" x="30" as="geometry">
+            <mxRectangle height="290" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-152" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Circulation&lt;/font&gt;" vertex="1">
+          <mxGeometry height="220" width="210" x="530" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-153" parent="plVcgqgExox_p886mGKB-152" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-154" parent="plVcgqgExox_p886mGKB-153" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;PK&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-155" parent="plVcgqgExox_p886mGKB-153" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;transaction_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="30" as="geometry">
+            <mxRectangle height="30" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-156" parent="plVcgqgExox_p886mGKB-152" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="160" width="210" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-157" parent="plVcgqgExox_p886mGKB-156" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="30" as="geometry">
+            <mxRectangle height="160" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-158" parent="plVcgqgExox_p886mGKB-156" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;book_id&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;FK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;patron_id&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;issue_date&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;due_date&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;return_date&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;status&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="180" x="30" as="geometry">
+            <mxRectangle height="160" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-166" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Patron&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="210" x="210" y="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-167" parent="plVcgqgExox_p886mGKB-166" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-168" parent="plVcgqgExox_p886mGKB-167" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;PK&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-169" parent="plVcgqgExox_p886mGKB-167" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;patron_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="30" as="geometry">
+            <mxRectangle height="30" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-170" parent="plVcgqgExox_p886mGKB-166" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="90" width="210" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-171" parent="plVcgqgExox_p886mGKB-170" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="30" as="geometry">
+            <mxRectangle height="90" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-172" parent="plVcgqgExox_p886mGKB-170" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;name&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;address&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;phone&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="30" as="geometry">
+            <mxRectangle height="90" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-173" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;RFID_Tag&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="180" x="850" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-174" parent="plVcgqgExox_p886mGKB-173" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-175" parent="plVcgqgExox_p886mGKB-174" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;PK&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-176" parent="plVcgqgExox_p886mGKB-174" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;rfid_no&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="30" as="geometry">
+            <mxRectangle height="30" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-177" parent="plVcgqgExox_p886mGKB-173" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="80" width="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-178" parent="plVcgqgExox_p886mGKB-177" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="30" as="geometry">
+            <mxRectangle height="80" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-179" parent="plVcgqgExox_p886mGKB-177" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;book_id&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;status&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="30" as="geometry">
+            <mxRectangle height="80" width="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-180" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Acquisition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="850" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-181" parent="plVcgqgExox_p886mGKB-180" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="230" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-182" parent="plVcgqgExox_p886mGKB-181" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;PK&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-183" parent="plVcgqgExox_p886mGKB-181" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;acquisiton_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="30" as="geometry">
+            <mxRectangle height="30" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-184" parent="plVcgqgExox_p886mGKB-180" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="100" width="230" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-185" parent="plVcgqgExox_p886mGKB-184" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="30" as="geometry">
+            <mxRectangle height="100" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-186" parent="plVcgqgExox_p886mGKB-184" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;book_id&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;date&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;no_of_published_books&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;price&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="30" as="geometry">
+            <mxRectangle height="100" width="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-187" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Catalog&lt;/font&gt;" vertex="1">
+          <mxGeometry height="430" width="210" x="860" y="2840" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-188" parent="plVcgqgExox_p886mGKB-187" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
+          <mxGeometry height="30" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-189" parent="plVcgqgExox_p886mGKB-188" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;PK&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="30" as="geometry">
+            <mxRectangle height="30" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-190" parent="plVcgqgExox_p886mGKB-188" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;catalog_id&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="30" as="geometry">
+            <mxRectangle height="30" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-191" parent="plVcgqgExox_p886mGKB-187" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" value="" vertex="1">
+          <mxGeometry height="370" width="210" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-192" parent="plVcgqgExox_p886mGKB-191" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="370" width="30" as="geometry">
+            <mxRectangle height="370" width="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-193" parent="plVcgqgExox_p886mGKB-191" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;book_id&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;no_of_pages&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;size&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;illustrations&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;publisher&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;place_of_publication&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;published_country&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;distributor&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;keywords&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;type_of_reference&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;date_of_reference&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;annotation&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;index&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;summary&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;remark&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;notes&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="180" x="30" as="geometry">
+            <mxRectangle height="370" width="180" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-194" edge="1" parent="1" source="plVcgqgExox_p886mGKB-129" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.989;exitY=0.122;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="plVcgqgExox_p886mGKB-149" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="2399.21" />
+            </Array>
+            <mxPoint x="410" y="2399.21" as="sourcePoint" />
+            <mxPoint x="526.72" y="2410.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-195" edge="1" parent="1" source="plVcgqgExox_p886mGKB-177" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.002;exitY=0.237;exitDx=0;exitDy=0;entryX=0.996;entryY=0.061;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="plVcgqgExox_p886mGKB-149" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="2409.21" />
+            </Array>
+            <mxPoint x="418" y="2434" as="sourcePoint" />
+            <mxPoint x="529" y="2435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-196" edge="1" parent="1" source="plVcgqgExox_p886mGKB-139" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="640" y="2580" as="sourcePoint" />
+            <mxPoint x="520" y="2577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-197" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;rounded=0;entryX=-0.004;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="420" y="2848" as="sourcePoint" />
+            <mxPoint x="530.0000000000001" y="2928.32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-198" edge="1" parent="1" source="plVcgqgExox_p886mGKB-156" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.999;exitY=0.229;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="743" y="2935" as="sourcePoint" />
+            <mxPoint x="516" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-199" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;rounded=0;entryX=-0.001;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;" target="plVcgqgExox_p886mGKB-191" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="740" y="2990" as="sourcePoint" />
+            <mxPoint x="740" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-200" edge="1" parent="1" source="plVcgqgExox_p886mGKB-149" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;startArrow=ERzeroToMany;rounded=0;entryX=0.001;entryY=0.266;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.996;exitY=0.812;exitDx=0;exitDy=0;exitPerimeter=0;" target="plVcgqgExox_p886mGKB-184" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="640" y="2690" as="sourcePoint" />
+            <mxPoint x="740" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-201" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;ER Diagram&lt;/font&gt;" vertex="1">
+          <mxGeometry height="73" width="360" x="440.07" y="3320" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-216" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Patron&lt;/font&gt;" vertex="1">
+          <mxGeometry height="148" width="279.07" x="925" y="1879" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-217" parent="plVcgqgExox_p886mGKB-216" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-patronID:int&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-name:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-address:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;-phone:string&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="114" width="279.07" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-218" parent="plVcgqgExox_p886mGKB-216" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="279.07" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-219" edge="1" parent="1" source="plVcgqgExox_p886mGKB-217" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;exitX=1.017;exitY=0.23;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="645" y="1824" as="sourcePoint" />
+            <mxPoint x="929" y="1768" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-221" edge="1" parent="1" source="plVcgqgExox_p886mGKB-74" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;exitX=1.007;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="plVcgqgExox_p886mGKB-80" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="700" y="1670" as="sourcePoint" />
+            <mxPoint x="800" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-252" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="460" width="792.55" x="180" y="3870" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-255" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="363" width="720" x="200" y="3450" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-256" connectable="0" parent="plVcgqgExox_p886mGKB-255" style="group" value="" vertex="1">
+          <mxGeometry height="363" width="720" x="18" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-223" parent="plVcgqgExox_p886mGKB-256" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="30" width="150" x="158" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-224" parent="plVcgqgExox_p886mGKB-256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Patron ID&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-225" parent="plVcgqgExox_p886mGKB-256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Book RFID No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-226" parent="plVcgqgExox_p886mGKB-256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Issue Date&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-227" parent="plVcgqgExox_p886mGKB-256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Return Date&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" y="221.5" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-229" parent="plVcgqgExox_p886mGKB-256" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="30" width="150" x="158" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-231" parent="plVcgqgExox_p886mGKB-256" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="5/5/2026" vertex="1">
+          <mxGeometry height="33" width="150" x="160" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-232" parent="plVcgqgExox_p886mGKB-231" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="18" relative="1" width="18" x="1" y="0.5" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-233" parent="plVcgqgExox_p886mGKB-256" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="" vertex="1">
+          <mxGeometry height="33" width="150" x="160" y="221.5" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-234" parent="plVcgqgExox_p886mGKB-233" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="18" relative="1" width="18" x="1" y="0.5" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-235" parent="plVcgqgExox_p886mGKB-256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Patron Name&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="400" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-236" parent="plVcgqgExox_p886mGKB-256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Book Title&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="400" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-237" parent="plVcgqgExox_p886mGKB-256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Due Date&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="400" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-238" parent="plVcgqgExox_p886mGKB-256" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Status&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="410" y="221.5" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-239" parent="plVcgqgExox_p886mGKB-256" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="33.75" width="165" x="555" y="6.25" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-242" parent="plVcgqgExox_p886mGKB-256" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="33.75" width="165" x="555" y="66.25" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-243" parent="plVcgqgExox_p886mGKB-256" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="5/5/2026" vertex="1">
+          <mxGeometry height="33" width="165" x="555" y="143" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-244" parent="plVcgqgExox_p886mGKB-243" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="18" relative="1" width="18" x="1" y="0.5" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-249" parent="plVcgqgExox_p886mGKB-256" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Issue Book" vertex="1">
+          <mxGeometry height="33" width="86" x="124" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-250" parent="plVcgqgExox_p886mGKB-256" style="rounded=1;fillColor=#008a00;strokeColor=#005700;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontColor=#ffffff;" value="Retrun Book&amp;nbsp;" vertex="1">
+          <mxGeometry height="33" width="86" x="310" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-251" parent="plVcgqgExox_p886mGKB-256" style="rounded=1;fillColor=#a20025;strokeColor=#6F0000;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Clear" vertex="1">
+          <mxGeometry height="33" width="86" x="513.07" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-253" parent="plVcgqgExox_p886mGKB-256" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=18;spacing=20;" value="Issued" vertex="1">
+          <mxGeometry height="34" width="165" x="555" y="209" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-254" parent="plVcgqgExox_p886mGKB-253" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" value="" vertex="1">
+          <mxGeometry height="5" relative="1" width="10" x="1" y="0.5" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-259" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="650" width="662.55" x="310" y="4530" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-314" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="603" width="590" x="350" y="4550" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-257" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Title&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="169.07000000000016" y="4.958881578947368" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-260" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Language&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="169.07000000000016" y="64.4654605263158" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-261" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Category&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="169.07000000000016" y="123.9720394736842" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-262" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Edition&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="169.07000000000016" y="252.90296052631578" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-263" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Publication Year&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="130.93" x="168.13999999999987" y="183.47861842105263" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-264" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Subject&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="168.1400000000001" y="322.32730263157896" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-265" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Key Author&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="169.07000000000016" y="391.7516447368421" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-266" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Other Author&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="174.07000000000016" y="471.09375" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-270" parent="plVcgqgExox_p886mGKB-314" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Image.svg;" value="" vertex="1">
+          <mxGeometry height="63.473684210526315" width="92.32445723684211" y="50.58059210526316" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-271" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Cover&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="2.2737367544323206e-13" y="4.958881578947368" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-272" parent="plVcgqgExox_p886mGKB-314" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;e-Book&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.75328947368421" width="120" x="2.2737367544323206e-13" y="133.88980263157896" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-273" parent="plVcgqgExox_p886mGKB-314" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.adobe_pdf;fillColor=#F40C0C;gradientColor=#610603" value="" vertex="1">
+          <mxGeometry height="69.42434210526315" width="70" y="183.47861842105263" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-274" parent="plVcgqgExox_p886mGKB-314" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="39.671052631578945" width="260" x="330" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-275" parent="plVcgqgExox_p886mGKB-314" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=18;spacing=20;" value="" vertex="1">
+          <mxGeometry height="33.7203947368421" width="165" x="330" y="64.4654605263158" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-276" parent="plVcgqgExox_p886mGKB-275" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" value="" vertex="1">
+          <mxGeometry height="5" relative="1" width="10" x="1" y="0.5" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-277" parent="plVcgqgExox_p886mGKB-314" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=18;spacing=20;" value="" vertex="1">
+          <mxGeometry height="33.7203947368421" width="165" x="330" y="123.9720394736842" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-278" parent="plVcgqgExox_p886mGKB-277" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" value="" vertex="1">
+          <mxGeometry height="5" relative="1" width="10" x="1" y="0.5" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-279" parent="plVcgqgExox_p886mGKB-314" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=18;spacing=20;" value="" vertex="1">
+          <mxGeometry height="33.7203947368421" width="165" x="330" y="320.34375" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-280" parent="plVcgqgExox_p886mGKB-279" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" value="" vertex="1">
+          <mxGeometry height="5" relative="1" width="10" x="1" y="0.5" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-281" parent="plVcgqgExox_p886mGKB-314" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;2013&lt;/font&gt;" vertex="1">
+          <mxGeometry height="39.671052631578945" width="150" x="330" y="183.47861842105263" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-283" parent="plVcgqgExox_p886mGKB-314" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="39.671052631578945" width="170" x="330" y="252.90296052631578" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-284" parent="plVcgqgExox_p886mGKB-314" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="39.671052631578945" width="170" x="330" y="391.7516447368421" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-285" parent="plVcgqgExox_p886mGKB-314" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="39.671052631578945" width="170" x="327.5" y="461.17598684210526" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-358" connectable="0" parent="plVcgqgExox_p886mGKB-314" style="group" value="" vertex="1">
+          <mxGeometry height="32.7286184210526" width="457.93000000000006" x="98.06999999999994" y="580.2713815789474" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-359" parent="plVcgqgExox_p886mGKB-358" style="rounded=1;fillColor=#008a00;strokeColor=#005700;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontColor=#ffffff;" value="Save" vertex="1">
+          <mxGeometry height="32.72861842105263" width="86" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-360" parent="plVcgqgExox_p886mGKB-358" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;html=1;whiteSpace=wrap;fontColor=#000000;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Clear" vertex="1">
+          <mxGeometry height="32.72861842105263" width="86" x="181.93000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-361" parent="plVcgqgExox_p886mGKB-358" style="rounded=1;fillColor=#a20025;strokeColor=#6F0000;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Cancel" vertex="1">
+          <mxGeometry height="32.72861842105263" width="86" x="371.93000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-363" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="550" width="990" x="290" y="5530" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-364" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="410.00000000000045" width="880" x="329.07000000000005" y="5590" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-319" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Sub Title&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-320" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Translator&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-321" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Size&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="-5" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-322" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Editor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="4.069999999999936" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-323" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Illustration&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="20" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-324" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;No. of Pages&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="30" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-326" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Publiced Country&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="30" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-327" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Price&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-328" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;No. of Published Books&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="250" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-329" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Place Of Publication&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="502.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-330" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Publisher&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="490" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-331" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Distributor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="500" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-332" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Keywords&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="500" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-333" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Type of Reference&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="500" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-334" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Date of Reference&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="165" x="505" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-335" parent="plVcgqgExox_p886mGKB-364" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Annotation&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="505" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-336" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-337" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-338" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-339" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-340" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-341" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-342" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-343" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-347" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="680" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-348" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="240" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-349" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="680" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-350" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="680" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-351" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="680" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-352" parent="plVcgqgExox_p886mGKB-364" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#505050;strokeWidth=1;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=18;spacing=20;" value="" vertex="1">
+          <mxGeometry height="33.72" width="130" x="680" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-353" parent="plVcgqgExox_p886mGKB-352" style="shape=triangle;direction=south;fillColor=#495057;strokeColor=none;perimeter=none;" value="" vertex="1">
+          <mxGeometry height="5" relative="1" width="10" x="1" y="0.5" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-354" parent="plVcgqgExox_p886mGKB-364" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="" vertex="1">
+          <mxGeometry height="33" width="130" x="680" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-355" parent="plVcgqgExox_p886mGKB-354" style="shape=mxgraph.gmdl.calendar;fillColor=#5A6881;strokeColor=none;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" value="" vertex="1">
+          <mxGeometry height="18" relative="1" width="18" x="1" y="0.5" as="geometry">
+            <mxPoint x="-29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-356" parent="plVcgqgExox_p886mGKB-364" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="130" x="680" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-357" connectable="0" parent="plVcgqgExox_p886mGKB-364" style="group" value="" vertex="1">
+          <mxGeometry height="32.73" width="450" x="430" y="377.27000000000044" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-311" parent="plVcgqgExox_p886mGKB-357" style="rounded=1;fillColor=#008a00;strokeColor=#005700;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;fontColor=#ffffff;" value="Save" vertex="1">
+          <mxGeometry height="32.730000000000025" width="84.51073308147532" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-312" parent="plVcgqgExox_p886mGKB-357" style="rounded=1;fillColor=#f0a30a;strokeColor=#BD7000;html=1;whiteSpace=wrap;fontColor=#000000;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Clear" vertex="1">
+          <mxGeometry height="32.730000000000025" width="84.51073308147532" x="178.77950778503265" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-313" parent="plVcgqgExox_p886mGKB-357" style="rounded=1;fillColor=#a20025;strokeColor=#6F0000;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Cancel" vertex="1">
+          <mxGeometry height="32.730000000000025" width="84.51073308147532" x="365.48926691852466" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-369" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="920" x="260" y="6340" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-404" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="792.5" x="320" y="6390" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-365" parent="plVcgqgExox_p886mGKB-404" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Search By&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="175" x="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-366" parent="plVcgqgExox_p886mGKB-404" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Enter Value&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="175" x="2.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-367" parent="plVcgqgExox_p886mGKB-404" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Search Result&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="175" x="2.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-373" parent="plVcgqgExox_p886mGKB-404" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="157.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-374" parent="plVcgqgExox_p886mGKB-404" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;Call_No(Class_No+ Acq_No)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="290" x="192.5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-375" parent="plVcgqgExox_p886mGKB-404" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=#0050ef;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;strokeColor=#001DBC;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="502.5" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-376" parent="plVcgqgExox_p886mGKB-404" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;RFID No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="175" x="532.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-377" parent="plVcgqgExox_p886mGKB-404" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="39.671052631578945" width="260" x="157.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-378" parent="plVcgqgExox_p886mGKB-404" style="rounded=1;fillColor=#bac8d3;strokeColor=#23445d;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Clear" vertex="1">
+          <mxGeometry height="32.730000000000025" width="84.51073308147532" x="672.4992669185249" y="76.94000000000051" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-379" parent="plVcgqgExox_p886mGKB-404" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" value="Search" vertex="1">
+          <mxGeometry height="32.730000000000025" width="84.51073308147532" x="542.4992669185249" y="76.9399999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-381" parent="plVcgqgExox_p886mGKB-404" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="110" width="422.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-382" parent="plVcgqgExox_p886mGKB-381" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="30" width="422.5" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-383" parent="plVcgqgExox_p886mGKB-382" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="RFID No" vertex="1">
+          <mxGeometry height="30" width="100" as="geometry">
+            <mxRectangle height="30" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-384" parent="plVcgqgExox_p886mGKB-382" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Call No" vertex="1">
+          <mxGeometry height="30" width="132" x="100" as="geometry">
+            <mxRectangle height="30" width="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-385" parent="plVcgqgExox_p886mGKB-382" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Title" vertex="1">
+          <mxGeometry height="30" width="191" x="232" as="geometry">
+            <mxRectangle height="30" width="191" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-386" parent="plVcgqgExox_p886mGKB-381" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="80" width="422.5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-387" parent="plVcgqgExox_p886mGKB-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="E20034123&lt;div&gt;E20034124&lt;/div&gt;&lt;div&gt;E20034125&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="100" as="geometry">
+            <mxRectangle height="80" width="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-388" parent="plVcgqgExox_p886mGKB-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" value="005,133/24-001&lt;div&gt;823,912/24-002&lt;/div&gt;&lt;div&gt;741,5/24-003&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="132" x="100" as="geometry">
+            <mxRectangle height="80" width="132" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-389" parent="plVcgqgExox_p886mGKB-386" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" value="Database System&lt;div&gt;The Hobbit&lt;/div&gt;&lt;div&gt;Mickey Comic&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="191" x="232" as="geometry">
+            <mxRectangle height="80" width="191" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-394" parent="plVcgqgExox_p886mGKB-404" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="110" width="370" x="422.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-395" parent="plVcgqgExox_p886mGKB-394" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="30" width="370" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-396" parent="plVcgqgExox_p886mGKB-395" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Author" vertex="1">
+          <mxGeometry height="30" width="130" as="geometry">
+            <mxRectangle height="30" width="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-397" parent="plVcgqgExox_p886mGKB-395" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Category" vertex="1">
+          <mxGeometry height="30" width="110" x="130" as="geometry">
+            <mxRectangle height="30" width="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-398" parent="plVcgqgExox_p886mGKB-395" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Status" vertex="1">
+          <mxGeometry height="30" width="130" x="240" as="geometry">
+            <mxRectangle height="30" width="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-399" parent="plVcgqgExox_p886mGKB-394" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="80" width="370" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-400" parent="plVcgqgExox_p886mGKB-399" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" value="C.J.Date&lt;div&gt;J.R.R. Tolkien&lt;/div&gt;&lt;div&gt;Disney&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" as="geometry">
+            <mxRectangle height="80" width="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-401" parent="plVcgqgExox_p886mGKB-399" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" value="Non-Fiction&lt;div&gt;Novel&lt;/div&gt;&lt;div&gt;Comic&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="110" x="130" as="geometry">
+            <mxRectangle height="80" width="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-402" parent="plVcgqgExox_p886mGKB-399" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;align=left;" value="Available&lt;div&gt;Issued&lt;/div&gt;&lt;div&gt;Available&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="240" as="geometry">
+            <mxRectangle height="80" width="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-403" parent="plVcgqgExox_p886mGKB-404" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(34, 31, 234), rgb(237, 237, 237));&quot; face=&quot;Times New Roman&quot;&gt;View Details&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="175" x="2.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-405" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;Search Book&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="600" y="6850" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-406" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;Cataloguing Form&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="590" y="6140" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-407" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;Acquisition Form&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="510" y="5220" as="geometry" />
+        </mxCell>
+        <mxCell id="plVcgqgExox_p886mGKB-408" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Times New Roman&quot;&gt;Circulation Form&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="460" y="4360" as="geometry" />
+        </mxCell>
+        <mxCell id="KhkD1lyLT3bc61OcVTD--4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Logout&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="190" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="KhkD1lyLT3bc61OcVTD--5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="KhkD1lyLT3bc61OcVTD--4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="210" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KhkD1lyLT3bc61OcVTD--12" edge="1" parent="1" source="plVcgqgExox_p886mGKB-16" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="450" as="sourcePoint" />
+            <mxPoint x="500" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
