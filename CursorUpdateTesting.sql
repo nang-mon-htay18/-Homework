@@ -36,6 +36,7 @@ select * from Consumption
 
 --select 1+2
 
+
 DECLARE @FuelID INT
 DECLARE @FuelName NVARCHAR(50)
 DECLARE @Liter DECIMAL(10,2)
@@ -50,7 +51,7 @@ FETCH NEXT FROM fuel_cursor INTO @FuelID, @FuelName, @Liter
 
 WHILE @@FETCH_STATUS = 0
 BEGIN
-    PRINT 'Fuel: ' + @FuelName + ', Liter: ' + CAST(@Liter AS NVARCHAR(10))
+    PRINT 'FuelID: ' + CAST(@FuelID AS NVARCHAR(10)) + ', Fuel: ' + @FuelName +', Liter: ' + CAST(@Liter AS NVARCHAR(10))
 
     IF @Liter > 50
         UPDATE Consumption
